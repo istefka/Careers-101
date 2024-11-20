@@ -74,4 +74,3 @@
 - Add a unique touch to your profile by using creative README designs, including animations or visuals.
 - Keep updating your profile with new projects and contributions to reflect your growth.
 
-By following this checklist, you’ll create a standout GitHub profile that attracts hiring managers and showcases your skills effectively.
